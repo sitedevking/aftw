@@ -561,3 +561,190 @@ section.form .container {
 #content8-6 .lead P {
   text-align: center;
 }
+#menu-k .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-k .navbar-caption {
+  color: #ffffff;
+}
+#menu-k .navbar-toggler {
+  color: #ffffff;
+}
+#menu-k .link,
+#menu-k .dropdown-item {
+  color: #ffffff;
+}
+#menu-k .link {
+  font-size: 0.85rem;
+}
+#menu-k .dropdown-item,
+#menu-k .nav-dropdown-sm .link {
+  font-size: 0.921rem;
+}
+#menu-k .link:hover,
+#menu-k .dropdown-item:hover,
+#menu-k .link:focus,
+#menu-k .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-k .link[aria-expanded="true"],
+#menu-k .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-k .nav-dropdown-sm .link:focus,
+#menu-k .nav-dropdown-sm .link:hover,
+#menu-k .nav-dropdown-sm .dropdown-item:focus,
+#menu-k .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-k .navbar,
+#menu-k .nav-dropdown-sm,
+#menu-k .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-k .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-k .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-k .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-k .bg-color.transparent.opened .link:hover,
+#menu-k .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-k .link[aria-expanded="true"],
+#menu-k .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#menu-k.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-k .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-k .close-icon::before,
+#menu-k .close-icon::after {
+  background-color: #ffffff;
+}
+#header1-l .mbr-section-title {
+  text-align: left;
+}
+#header1-l .mbr-section-lead {
+  text-align: center;
+}
+#footer1-m P {
+  text-align: center;
+}
+#features4-o .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-o .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#content8-r .mbr-section-title,
+#content8-r .lead {
+  text-align: right;
+  color: #fff;
+}
+#content8-r .lead P {
+  text-align: center;
+}
+#msg-box1-q B {
+  font-size: 16px;
+}
+#msg-box1-q H3 {
+  font-size: 20px;
+}
+#menu-13 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-13 .navbar-caption {
+  color: #ffffff;
+}
+#menu-13 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-13 .link,
+#menu-13 .dropdown-item {
+  color: #ffffff;
+}
+#menu-13 .link {
+  font-size: 0.85rem;
+}
+#menu-13 .dropdown-item,
+#menu-13 .nav-dropdown-sm .link {
+  font-size: 0.921rem;
+}
+#menu-13 .link:hover,
+#menu-13 .dropdown-item:hover,
+#menu-13 .link:focus,
+#menu-13 .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-13 .link[aria-expanded="true"],
+#menu-13 .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-13 .nav-dropdown-sm .link:focus,
+#menu-13 .nav-dropdown-sm .link:hover,
+#menu-13 .nav-dropdown-sm .dropdown-item:focus,
+#menu-13 .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-13 .navbar,
+#menu-13 .nav-dropdown-sm,
+#menu-13 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-13 .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-13 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-13 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-13 .bg-color.transparent.opened .link:hover,
+#menu-13 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-13 .link[aria-expanded="true"],
+#menu-13 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#menu-13.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-13 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-13 .close-icon::before,
+#menu-13 .close-icon::after {
+  background-color: #ffffff;
+}
+#header1-14 .mbr-section-title {
+  text-align: left;
+}
+#footer1-15 P {
+  text-align: center;
+}
+#features4-17 .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-17 .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#header6-16 .mbr-section-title {
+  color: #ffffff;
+}
+#header6-16 .mbr-section-text {
+  color: #ffffff;
+}
+#slider-18 H2 {
+  font-size: 60px;
+  text-align: right;
+}
